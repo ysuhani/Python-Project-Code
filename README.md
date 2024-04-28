@@ -6,6 +6,7 @@ It was a fun project, which helped me to understand how we can order food online
 
 Implementation Plan:
 - Python Packages/Modules:
+  
 •	`tkinter`: Utilized for constructing the graphical user interface (GUI).
 
 •	`messagebox` from `tkinter`: Employed for displaying messages and alerts to users.
